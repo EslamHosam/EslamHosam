@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 - 🔭 I’m currently working on Deep Learning project for Trust Systems company
 - 🌱 I’m currently learning Data science and deep learning
 <!--
